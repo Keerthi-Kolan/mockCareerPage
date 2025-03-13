@@ -1,0 +1,16 @@
+.leftComponent {
+  display: flex;
+  flex-direction: row;
+  border: 0.5px solid rgb(124, 124, 124);
+  border-radius: 20px;
+
+  box-shadow: 0px 4px 3px rgba(0, 0, 0, 0.1);
+
+  align-items: center;
+  padding: 20px;
+  gap: 20px;
+  width: fit-content;
+}
+.leftComponent h2 {
+  color: #6363fc;
+}

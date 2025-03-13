@@ -1,0 +1,22 @@
+.rightComponent {
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
+  border: 0.5px solid black;
+  border-radius: 15px;
+  box-shadow: 0px 4px 3px rgba(0, 0, 0, 0.1);
+  justify-content: flex-end;
+  padding: 10px 30px 10px 30px;
+  align-items: center;
+}
+.rightComponent button {
+  background-color: #000000; /* Green */
+  border: none;
+  border-radius: 4px;
+  color: white;
+  padding: 15px 12px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}

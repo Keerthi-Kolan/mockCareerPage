@@ -1,0 +1,12 @@
+.heading {
+  align-items: center;
+  padding: 80px;
+  max-width: 40%;
+  font-size: large;
+}
+.heading h5 {
+  color: #2c5ded;
+}
+.heading p {
+  text-align: justify;
+}
